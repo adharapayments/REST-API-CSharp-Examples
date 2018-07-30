@@ -109,7 +109,7 @@ namespace PriceStreaming
     class PriceStreaming
     {
 
-        private static bool ssl = true;
+        private static bool ssl = false;
         private static String URL = "/getPrice";
         private static String domain;
         private static String url_stream;

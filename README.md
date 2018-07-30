@@ -1,5 +1,5 @@
 # REST API C# Examples
-This is Arthika's repository for examples, sample code written in C# that demonstrates in a simple way how to use our REST API.
+This is Adhara's repository for examples, sample code written in C# that demonstrates in a simple way how to use our REST API.
 
 * getAccount
 * getInterface
@@ -27,7 +27,7 @@ The repository contains all the examples listed above together with the classes 
 **2. Modify config.properties file with your settings** 
 
 ```
-domain=http://demo.arthikatrading.com
+domain=http://actfx.adhara.io
 user=demo
 password=demo
 ```
